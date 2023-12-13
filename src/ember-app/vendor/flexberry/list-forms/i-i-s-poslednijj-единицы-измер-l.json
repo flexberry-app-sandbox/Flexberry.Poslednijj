@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-poslednijj-единицы-измер-e",
+  "editForm": "i-i-s-poslednijj-единицы-измер-e",
+  "external": false,
+  "caption": "Единицы измер",
+  "name": "IISPoslednijjЕдиницыИзмерL",
+  "className": "ЕдиницыИзмерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednijj-единицы-измер",
+      "modelProjection": "ЕдиницыИзмерL"
+    }
+  ]
+}

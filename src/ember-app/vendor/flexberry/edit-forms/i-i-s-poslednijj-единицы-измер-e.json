@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Единицы измер",
+  "name": "IISPoslednijjЕдиницыИзмерE",
+  "className": "ЕдиницыИзмерE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednijj-единицы-измер",
+      "modelProjection": "ЕдиницыИзмерE"
+    }
+  ]
+}

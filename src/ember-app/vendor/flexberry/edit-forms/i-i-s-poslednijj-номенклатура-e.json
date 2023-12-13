@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Номенклатура",
+  "name": "IISPoslednijjНоменклатураE",
+  "className": "НоменклатураE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednijj-номенклатура",
+      "modelProjection": "НоменклатураE"
+    }
+  ]
+}

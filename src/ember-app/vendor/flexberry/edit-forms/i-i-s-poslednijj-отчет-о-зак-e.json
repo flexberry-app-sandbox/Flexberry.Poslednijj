@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Отчет о зак",
+  "name": "IISPoslednijjОтчетОЗакE",
+  "className": "ОтчетОЗакE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednijj-отчет-о-зак",
+      "modelProjection": "ОтчетОЗакE"
+    }
+  ]
+}

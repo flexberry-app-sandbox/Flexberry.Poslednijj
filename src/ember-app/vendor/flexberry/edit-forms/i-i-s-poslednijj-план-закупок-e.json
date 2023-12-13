@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "План закупок",
+  "name": "IISPoslednijjПланЗакупокE",
+  "className": "ПланЗакупокE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednijj-план-закупок",
+      "modelProjection": "ПланЗакупокE"
+    }
+  ]
+}

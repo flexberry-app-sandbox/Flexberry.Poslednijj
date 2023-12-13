@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-poslednijj-контрагенты-e",
+  "editForm": "i-i-s-poslednijj-контрагенты-e",
+  "external": false,
+  "caption": "Контрагенты",
+  "name": "IISPoslednijjКонтрагентыL",
+  "className": "КонтрагентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednijj-контрагенты",
+      "modelProjection": "КонтрагентыL"
+    }
+  ]
+}

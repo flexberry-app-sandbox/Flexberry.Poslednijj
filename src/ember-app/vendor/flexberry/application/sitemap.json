@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "Poslednijj",
+  "applicationTitle": "Poslednijj",
+  "items": [
+    {
+      "link": null,
+      "menuName": "poslednijj",
+      "caption": "Poslednijj",
+      "title": "Poslednijj",
+      "children": [
+        {
+          "link": "i-i-s-poslednijj-склады-l",
+          "menuName": null,
+          "caption": "Склады",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-poslednijj-отчет-о-зак-l",
+          "menuName": null,
+          "caption": "Отчет о зак",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-poslednijj-план-закупок-l",
+          "menuName": null,
+          "caption": "План закупок",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-poslednijj-заказ-пост-l",
+          "menuName": null,
+          "caption": "Заказ пост",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-poslednijj-номенклатура-l",
+          "menuName": null,
+          "caption": "Номенклатура",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-poslednijj-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-poslednijj-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-poslednijj-единицы-измер-l",
+          "menuName": null,
+          "caption": "Единицы измер",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
